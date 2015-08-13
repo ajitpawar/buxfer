@@ -1,7 +1,7 @@
 ## Buxfer
 
 Buxfer is a service that lets group of people track shared expenses.<br/>
-Idea inspired by the actual company [Buxfer](www.buxfer.com)
+Idea inspired by the actual company [Buxfer](https://www.buxfer.com/)
 
 ### How does it work
 For each expense, Buxfer records the person who paid the expense and the expense cost. It al lows group
